@@ -1,6 +1,6 @@
-### Hi there 👋
+### Say my name 👋 
 
-Here are some ideas to get you started:
+Hello! 
 
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on EVERYTHING   .
