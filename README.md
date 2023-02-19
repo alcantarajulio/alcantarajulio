@@ -1,4 +1,4 @@
-### Say my name 👋 
+### Say my name 😎
 <p align="center">
 </p>
 Hello! 
