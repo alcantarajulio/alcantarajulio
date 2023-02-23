@@ -1,7 +1,7 @@
 ### Say my name 😎
 <p align="center">
 </p>
-Hello! 
+Hello, my name is Júlio Alcantara! 
 
 - 🌱 I’m currently learning Java and WebDev.
 - 👯 I’m looking to collaborate on EVERYTHING.
