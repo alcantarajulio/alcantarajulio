@@ -3,7 +3,7 @@
 </p>
 Hello! 
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and WebDev.
 - 👯 I’m looking to collaborate on EVERYTHING.
 - 💬 Ask me about EVERYTHING.
 - 📫 How to reach me: julioalc21@gmail.com.
