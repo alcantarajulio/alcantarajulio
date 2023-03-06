@@ -4,11 +4,10 @@
 Hello, my name is Júlio Alcantara! 
 
 - 🌱 I’m currently learning Java and WebDev.
-- 👯 I’m looking to collaborate on EVERYTHING.
-- 💬 Ask me about EVERYTHING.
+- 💬 Ask me about my degree.
 - 📫 How to reach me: julioalc21@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: seriously, I really want to learn everything I can... and I play electric guitar.
+- ⚡ Fun fact: I play electric guitar. putitrain.
 
 
 <div align="center">
@@ -20,9 +19,7 @@ Hello, my name is Júlio Alcantara!
  * * *
  <div align="center" style="display: inline-block">
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <!-- <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg"/>
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/html5/html5-original.svg" />
   </div>
