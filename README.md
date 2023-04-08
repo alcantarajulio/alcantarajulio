@@ -1,13 +1,23 @@
-### Say my name 😎
+## Hello There 😎
 <p align="center">
 </p>
-Hello, my name is Júlio Alcantara! 
 
-- 🌱 I’m currently learning Java and WebDev.
+## en_US   
+
+My name is Júlio Alcantara! 
+
+- 🌱 I’m currently learning Java, WebDev and Iaas.
 - 💬 Ask me about my degree.
 - 📫 How to reach me: julioalc21@gmail.com.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I play electric guitar. putitrain.
+- ⚡ Fun fact: I love to play electric guitar and volleyball (when I have time).
+
+## pt_BR 
+Meu nome é Júlio Alcantara!
+
+- 🌱 Estou estudando atualmente sobre: Java, Desenvolvimento Web e Iaas.
+- 💬 Me pergunte sobre minha graduação.
+- 📫 Como me contatar: julioalc21@gmail.com.
+- ⚡ Curiosidade: Eu adoro tocar guitarra elétrica e jogar vôlei (quando tenho tempo).
 
 
 <div align="center">
