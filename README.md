@@ -7,17 +7,18 @@
 My name is Júlio Alcantara! 
 
 - 🌱 I’m currently learning Java, WebDev and Iaas.
-- 💬 Ask me about my degree.
 - 📫 How to reach me: julioalc21@gmail.com.
-- ⚡ Fun fact: I love to play electric guitar and volleyball (when I have time).
+- 🛡️ Member at Infrastructure and Education teams at Guardians@UFCG
+- ⚡ Fun fact: I love to watch sitcoms.
 
 ## pt_BR 
 Meu nome é Júlio Alcantara!
 
 - 🌱 Estou estudando atualmente sobre: Java, Desenvolvimento Web e Iaas.
-- 💬 Me pergunte sobre minha graduação.
 - 📫 Como me contatar: julioalc21@gmail.com.
-- ⚡ Curiosidade: Eu adoro tocar guitarra elétrica e jogar vôlei (quando tenho tempo).
+- 🛡️ Membro das equipes de Infraestrutura e Educação do Guardians@UFCG
+- ⚡ Curiosidade: Eu adoro assistir sitcoms.
+
 
 
 <div align="center">
@@ -39,4 +40,6 @@ Meu nome é Júlio Alcantara!
   <a href="https://www.linkedin.com/in/j%C3%BAlio-alcantara-6b23451a0/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="https://www.instagram.com/_j_ulio"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
-   
+    
+* * *
+<!-- ### Remember: As long as you're learning, you're not failing. -->
