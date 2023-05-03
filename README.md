@@ -9,7 +9,7 @@ My name is Júlio Alcantara!
 - 🌱 I’m currently learning Java, WebDev and Iaas.
 - 📫 How to reach me: julioalc21@gmail.com.
 - 🛡️ Member at Infrastructure and Education teams at [Guardians@UFCG](https://github.com/Guardians-DSC).
-- ⚡ Fun fact: I love to watch sitcoms.
+- ⚡ Fun fact: bears eat beets.
 
 ## pt_BR 
 Meu nome é Júlio Alcantara!
@@ -17,7 +17,7 @@ Meu nome é Júlio Alcantara!
 - 🌱 Estou estudando atualmente sobre: Java, Desenvolvimento Web e Iaas.
 - 📫 Como me contatar: julioalc21@gmail.com.
 - 🛡️ Membro das equipes de Infraestrutura e Educação do [Guardians@UFCG](https://github.com/Guardians-DSC).
-- ⚡ Curiosidade: Eu adoro assistir sitcoms.
+- ⚡ Curiosidade: Battlestar galactica.
 
 
 
