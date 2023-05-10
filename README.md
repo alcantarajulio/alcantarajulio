@@ -41,5 +41,11 @@ Meu nome é Júlio Alcantara!
   <a href="https://www.instagram.com/_j_ulio"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
     
+    
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alcantarajulio}/count.svg" /></p> 
+<br></div>
+    
 * * *
-<!-- ### Remember: As long as you're learning, you're not failing. -->
+
