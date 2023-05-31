@@ -9,7 +9,6 @@ My name is Júlio Alcantara!
 - 🌱 I’m currently learning Java, ShellScript and IaaS.
 - 📫 How to reach me: julioalc21@gmail.com.
 - 🛡️ Member at Infrastructure and Education teams at [Guardians@UFCG](https://github.com/Guardians-DSC).
-- ⚡ Fun fact: bears eat beets.
 
 ## pt_BR 
 Meu nome é Júlio Alcantara!
@@ -17,9 +16,6 @@ Meu nome é Júlio Alcantara!
 - 🌱 Estou estudando atualmente sobre: Java, ShellScript e IaaS.
 - 📫 Como me contatar: julioalc21@gmail.com.
 - 🛡️ Membro das equipes de Infraestrutura e Educação do [Guardians@UFCG](https://github.com/Guardians-DSC).
-- ⚡ Curiosidade: Battlestar galactica.
-
-
 
 <div align="center">
   <a href="https://github.com/alcantarajulio">
@@ -32,7 +28,9 @@ Meu nome é Júlio Alcantara!
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon//icons/html5/html5-original.svg" />
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
   </div>
   
  <br>
