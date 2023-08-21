@@ -9,6 +9,7 @@ My name is Júlio Alcantara!
 - 🌱 I’m currently learning Java, ShellScript and IaaS.
 - 📫 How to reach me: julioalc21@gmail.com.
 - 🛡️ Member at Infrastructure and Education teams at [Guardians@UFCG](https://github.com/Guardians-DSC).
+- Member at DevOps team at [LSD@UFCG](https://github.com/ufcg-lsd).
 
 ## pt_BR 
 Meu nome é Júlio Alcantara!
@@ -16,6 +17,7 @@ Meu nome é Júlio Alcantara!
 - 🌱 Estou estudando atualmente sobre: Java, ShellScript e IaaS.
 - 📫 Como me contatar: julioalc21@gmail.com.
 - 🛡️ Membro das equipes de Infraestrutura e Educação do [Guardians@UFCG](https://github.com/Guardians-DSC).
+- membro da equipe de DevOps no [LSD@UFCG](https://github.com/ufcg-lsd).
 
 <div align="center">
   <a href="https://github.com/alcantarajulio">
