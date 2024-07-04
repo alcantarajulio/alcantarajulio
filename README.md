@@ -6,18 +6,18 @@
 
 My name is Júlio Alcantara! 
 
-- 🌱 I’m currently learning Haskell, OpenStack, Clojure, Iac and Iaas.
+- 🌱 I’m currently learning SRE.
 - 📫 How to reach me: julioalc21@gmail.com.
 - 🛡️ Former member at Infrastructure and Education teams at [Guardians@UFCG](https://github.com/Guardians-DSC).
-- Member at DevOps team at [LSD@UFCG](https://github.com/ufcg-lsd).
+- Member at SysAdmin/SRE team at [LSD@UFCG](https://github.com/ufcg-lsd).
 
 ## pt_BR 
 Meu nome é Júlio Alcantara!
 
-- 🌱 Estou estudando atualmente sobre: Haskell, OpenStack, Clojure, Iac and Iaas.
+- 🌱 Estou estudando atualmente sobre SRE.
 - 📫 Como me contatar: julioalc21@gmail.com.
 - 🛡️ ex-Membro das equipes de Infraestrutura e Educação do [Guardians@UFCG](https://github.com/Guardians-DSC).
-- Membro da equipe de DevOps no [LSD@UFCG](https://github.com/ufcg-lsd).
+- Membro da equipe de SysAdmin/SRE no [LSD@UFCG](https://github.com/ufcg-lsd).
 
 <div align="center">
   <a href="https://github.com/alcantarajulio">
